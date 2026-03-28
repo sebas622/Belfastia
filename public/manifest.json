@@ -1,0 +1,16 @@
+{
+  "short_name": "BelfastIA",
+  "name": "BelfastIA — Gestión Colaborativa de Obra",
+  "description": "Plataforma de IA para estudios de arquitectura y empresas constructoras",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#2c2520",
+  "background_color": "#f0ece3",
+  "scope": "/",
+  "lang": "es"
+}
